@@ -1,9 +1,8 @@
-
 {
   "arenas": [
     {
-      "file": "test.zip",
-      "sha256": "74890bc41a2b3a89a8f72bc93212106f9a9d7eac06c30bec9f9653c004fb61e8"
+      "file": "testarena.zip",
+      "gitBlobSha": "fd2bf0eb1ae2228c9eb663ec8ecef90252fdd71c4"
     }
   ]
 }
